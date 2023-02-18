@@ -3,6 +3,7 @@ body {
 }
 
 .menu {
+    max-width: 500px;
     background-color: burlywood;
     width: 80%;
     margin-left: auto;
