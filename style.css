@@ -59,3 +59,25 @@ hr {
     text-align: right;
     width: 25%;
 }
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: brown;
+}
